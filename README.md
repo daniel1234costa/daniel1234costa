@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <a href = "ds9324621@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 <!--
-![Snake animation](https://github.com/daniel__costa/daniel__costa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/daniel1234costa/daniel1234costa/blob/output/github-contribution-grid-snake.svg)
 -->
 
