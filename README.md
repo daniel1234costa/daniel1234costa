@@ -1,7 +1,7 @@
 ## Olá, eu sou daniel__costa
 
 <!--
-**daniel1234costa/daniel1234costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daniel__costa\daniel__costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 Here are some ideas to get you started:
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/d4niel_costa__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "ds9324621@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
+![Snake animation](https://github.com/daniel__costa/daniel__costa/blob/output/github-contribution-grid-snake.svg)
 
