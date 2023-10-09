@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ... Cursando Tecnologia da Informação
-- 😄 Pronouns: ... Ele\dele
-- Gosto de aprender sobre ferramentas e tecnologias
+- 🌱 I’m currently learning ... Studying information technology
+- 😄 Pronouns: ... Him\his
+- I like learning about tools, technology and innovations
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 ## Contatos:
 
