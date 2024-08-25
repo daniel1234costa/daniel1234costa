@@ -5,7 +5,7 @@
 -->
 
 
-- 🌱 I’m currently learning ... Studying information technology
+- 🌱 Information technology student.
 - 😄 Pronouns: ... Him\his
 - I like learning about tools, technology and innovations
 - <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
