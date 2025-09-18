@@ -51,13 +51,17 @@
 </p>
 
 
----
-### My Social Media:
-<div>
-<a href="https://instagram.com/d4niel_costa__" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:ds9324621@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
-
 --- 
+### My Social Media:  
+<div> 
+  <a href="https://instagram.com/daniel.costasz" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a> 
+  <a href="ds9324621@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>  
+</div>  
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=001f3d&textBg=false&fontColor=00A9FF&fontSize=64&section=header&reversal=false"/>
+---  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=001f3d&textBg=false&fontColor=00A9FF&fontSize=64&section=header&reversal=false"/>  
